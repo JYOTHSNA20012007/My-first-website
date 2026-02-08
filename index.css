@@ -27,7 +27,7 @@
 
 /* HEADER */
 header {
-    padding: 10px 60px;              /* ⬅ reduced */
+    padding: 10px 60px;             
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,7 +37,7 @@ header {
 
 /* LOGO */
 .logo img {
-    height: 150px;                    /* ⬅ reduced from 200px */
+    height: 150px;                    
 }
 
 /* NAV */
@@ -55,7 +55,7 @@ nav a:hover {
 
 /* VIDEO SECTION */
 .video-section {
-    margin-top: 0;                   /* ⬅ removes gap */
+    margin-top: 0;                 
 }
 
 .video-section video {
@@ -202,7 +202,7 @@ nav a:hover {
 }
 
 .bottom-left img {
-    height: 100px;                  /* ⬅ reduced */
+    height: 100px;              
 }
 
 .bottom-center {
@@ -223,3 +223,4 @@ nav a:hover {
     margin-left: 15px;
     cursor: pointer;
 }
+
